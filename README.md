@@ -1,4 +1,4 @@
-# Siddhant_Nayak_Certifications
+# Siddhant Nayak Certifications
 Here are all my certificates listed with details.
 
 ## Python for Data Science, AI & Development: [Certificate](https://www.coursera.org/account/accomplishments/certificate/HBGRTJ37J4HS)
