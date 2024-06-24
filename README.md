@@ -36,6 +36,12 @@ Here are all my certificates listed with details.
 * Describe the different types of data structures, file formats, and sources of data.
 * Describe the data analysis process involving collecting, wrangling, mining, and visualizing data.
 
+## Excel Basics for Data Analysis: [Certificate](https://www.coursera.org/account/accomplishments/certificate/47ZTR3DVPEMY)
+* Display working knowledge of Excel for Data Analysis.
+* Perform basic spreadsheet tasks including navigation, data entry, and using formulas.
+* Employ data quality techniques to import and clean data in Excel.
+* Analyze data in spreadsheets by using filter, sort, and look-up functions and pivot tables.
+
 
 
 
