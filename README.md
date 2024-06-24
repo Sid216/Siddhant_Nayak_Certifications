@@ -30,7 +30,7 @@ Here are all my certificates listed with details.
 * Used Django ORM to build object-oriented databases.
 * Integrated Bootstrap into Django templates to build interactive web pages.
 
-## Introduction to Data Analytics:[Certificate](https://www.coursera.org/account/accomplishments/certificate/JF3NSKRDRV3N)
+## Introduction to Data Analytics: [Certificate](https://www.coursera.org/account/accomplishments/certificate/JF3NSKRDRV3N)
 * Explain what Data Analytics is and the key steps in the Data Analytics process.
 * Differentiate between different data roles such as Data Engineer, Data Analyst, Data Scientist, Business Analyst, and Business Intelligence Analyst.
 * Describe the different types of data structures, file formats, and sources of data.
