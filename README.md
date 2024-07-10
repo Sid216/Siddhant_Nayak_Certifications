@@ -42,6 +42,12 @@ Here are all my certificates listed with details.
 * Employ data quality techniques to import and clean data in Excel.
 * Analyze data in spreadsheets by using filter, sort, and look-up functions and pivot tables.
 
+## Data Analysis with Python: [Certificate](https://www.coursera.org/account/accomplishments/certificate/4KT7T6CCUWED)
+* Develop Python code to handle missing values, format data, normalize values, and bin data as necessary for analysis.
+* Apply Pandas, NumPy, and SciPy libraries to perform EDA on real-world datasets. Utilize analytical techniques to understand data distribution, perform correlation analysis, and prepare data for modeling.
+* Manipulate data using Pandas data frames, summarize key statistics, and create data pipelines for efficient data processing.
+* Build regression models using scikit-learn library in Python. Evaluate models for prediction accuracy and decision-making purposes.
+
 
 
 
