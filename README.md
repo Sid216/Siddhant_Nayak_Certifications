@@ -48,6 +48,18 @@ Here are all my certificates listed with details.
 * Manipulate data using Pandas data frames, summarize key statistics, and create data pipelines for efficient data processing.
 * Build regression models using scikit-learn library in Python. Evaluate models for prediction accuracy and decision-making purposes.
 
+## Preparing Data for Analysis with Microsoft Excel: [Certificate](https://www.coursera.org/account/accomplishments/certificate/C8ZNNQUP2WJ4)
+* Created data in Microsoft Excel and prepared it for data analysis.
+* Make use of common formulas and functions in a worksheet.
+* Prepare Excel data for analysis in Power BI using functions.
+
+## Harnessing the Power of Data with Power BI: [Certificate](https://www.coursera.org/account/accomplishments/certificate/CX3LM9IRD0OP)
+* Describe how data is produced and gathered in businesses and organizations.  
+*	Outline the role of data in creating data-driven decisions and successful business outcomes.  
+*	Classify key stages in the data analysis process.  
+*	Recognize the skills a Power BI analyst needs and the tools they use.  
+*	List the tasks performed by a Power BI Data Analyst.  
+*	Recognize the components of Power BI.  
 
 
 
